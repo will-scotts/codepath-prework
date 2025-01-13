@@ -1,2 +1,2 @@
-# codepath-prework
+# Business Data Mining
 Codepath prework project
